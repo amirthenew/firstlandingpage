@@ -1,0 +1,27 @@
+.container{
+display: flex;
+    background-color: blueviolet;
+}
+.photo img{
+width: 450px;
+}
+
+.textbox{
+    font-size: 5rem;
+padding: 2rem;
+color: #fff;
+}
+
+.textbox h2{
+
+
+}
+
+
+.textbox p{
+
+font-size: 2rem;
+margin-top: 2rem;
+line-height: 2.5rem;
+letter-spacing: 1px;
+    }
