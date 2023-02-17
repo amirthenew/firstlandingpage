@@ -6,8 +6,8 @@
 .container img{width: 100%;}
 .textContainer{
     position: absolute;
-    top: 150px;
-    left: 150px;
+    top: 5rem;
+    left: 4rem;
 }
 
 .textContainer h1{
